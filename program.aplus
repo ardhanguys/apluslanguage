@@ -1,0 +1,11 @@
+
+isi umur = 18
+isi buah = ["apel", "mangga", "jeruk"]
+
+jika umur >= 17 dan umur < 25 maka
+  tulis "Kamu remaja!"
+akhir jika
+
+untuk i dalam 1 sampai 3 maka
+  tulis "Buah ke-" + (i) + ": " + buah[i-1]
+akhir untuk
